@@ -4,7 +4,7 @@ This is a semantic search web app built using **Streamlit** and **Sentence-BERT 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-deployment-link.streamlit.app)  
+👉 [Click here to try the app](https://huggingface.co/spaces/pradeepv0903/course-search)  
 
 _Try typing something like "data science", "machine learning"._
 
